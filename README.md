@@ -3,7 +3,7 @@
 ## 📌 Visão Geral
 Este projeto analisa a base de clientes de um serviço de **streaming por assinatura** para entender **quem cancela, por quê e em que momento da vida do cliente** o cancelamento (churn) acontece. Utilizamos **análise exploratória de dados (limpeza, análise univariada e bivariada)** e **frameworks de negócio (cohort, RFM e Pareto)** para transformar um extrato bruto de clientes em hipóteses acionáveis sobre retenção.
 
-📄 [Veja o template do notebook](https://github.com/profrenatabiaggi/template/blob/master/notebooks/Case_Fraude.ipynb)
+📄 [Veja a análise no Jupyter Notebook](https://github.com/luiz-valenca/streaming_churn/blob/master/notebooks/Estatistica_I.ipynb)
 
 notebooks/Estatística_I.ipynb
 
